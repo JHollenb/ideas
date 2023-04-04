@@ -5,3 +5,4 @@
 * [Archive box](https://github.com/ArchiveBox/ArchiveBox)
 * [Chat bot](https://github.com/mckaywrigley/chatbot-ui)
 * [GPT4 pdf](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+* [Pigeon Cannon](https://maxnagy.com/posts/pigeons/)
